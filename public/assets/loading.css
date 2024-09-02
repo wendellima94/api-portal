@@ -1,0 +1,64 @@
+/* Animação para o spinner girar */
+@keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  /* Animação para cores do arco-íris no spinner */
+  @keyframes rainbow {
+    0% { background-color: green; }
+    14% { background-color: orange; }
+    28% { background-color: rgb(255, 230, 0); }
+    42% { background-color: green; }
+    57% { background-color: rgb(0, 55, 255); }
+    71% { background-color: rgb(255, 230, 0); }
+    85% { background-color: orange; }
+    100% { background-color: red; }
+  }
+  
+  #loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    margin-top: 40px;
+  }
+  
+  .loading-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .loading-image {
+    z-index: 1000;
+    animation: blink 1.5s infinite;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .loading-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .loading-spinner {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border: 16px solid transparent; 
+    border-top: 16px solid #fefefe; 
+    border-radius: 50%;
+    animation: spin 2s linear infinite, rainbow 1.5s linear infinite;
+  }
+  

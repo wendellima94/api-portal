@@ -1,0 +1,23 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 3000,
+    "mongoURI": "mongodb+srv://commerceWdl:yYa7ajfCPxoRjGvu@myeccomerce.iavjiqr.mongodb.net/",
+    "username": "seu_usuario",
+    "password": "sua_senha",
+    "database": "nome_do_banco_de_dados",
+    "synchronize": true,
+    "logging": true,
+    "jwtSecretKey": "MIHcAgEBBEIBojxn8CPZnEpQ/N45p3X1sCr93pSpvWr34o1zqz4xY0aCGqUAblzhBzWmIycNawQmwrHLjrUHmx4qDdzZOl59ikugBwYFK4EEACOhgYkDgYYABAC+pp4QnQRTGoTzXH15h7CRL/IqBd6zItUSkurUqP59QqUNAxNnFK6bQnH8SbUOOqkIi/Qg2zVHf0NtLx4TZvJtmgAz0tNK9wTfOVXcvqagOljSvS+1Ey+3W1Vhwz0qI2zFZZFDsZDHWy2L2dqLEkoDX2yHEeJ7UK2d1inIr4feAkRFxg==",
+    "JWT_LIFETIME": "1d",
+    "JWT_REFRESH_LIFETIME": "30d",
+    "entities": ["src/entities/**/*.js"],
+    "migrations": ["src/migrations/**/*.js"],
+    "subscribers": ["src/subscribers/**/*.js"],
+    "cli": {
+      "entitiesDir": "src/entities",
+      "migrationsDir": "src/migrations",
+      "subscribersDir": "src/subscribers"
+    }
+  }
+  
