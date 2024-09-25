@@ -18,12 +18,7 @@ async function scrapeAndSaveData(req, res) {
 }
 
 function getScrapedData(req, res) {
-  const dataFilePath = path.join(
-    __dirname,
-    "..",
-    "public",
-    "horoscopo-etc.json"
-  );
+  const dataFilePath = path.join(__dirname, "..", "public", "horoscope.json");
   fs.readFile(dataFilePath, "utf8", (err, data) => {
     if (err) {
       res.status(500).json({ error: "Error reading data file" });

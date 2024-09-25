@@ -1,5 +1,5 @@
-
-module.exports = {
+export default {
   url: "mongodb+srv://commerceWdl:yYa7ajfCPxoRjGvu@myeccomerce.iavjiqr.mongodb.net/",
-  database: "portal",
+  database: "postImagens",
+  imgBucket: "photos",
 };
