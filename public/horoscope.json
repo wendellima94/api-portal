@@ -2,7 +2,55 @@
    "tag": "horoscope",
    "posts": [
       {
-         "id": "id-4g9z7edew-m0pea9c0",
+         "id": "id-cq5dar60q-m1jf7lnm",
+         "url": "https://gshow.globo.com/realities/estrela-da-casa/2024/noticia/matheus-torres-e-unna-x-combinam-veja-a-sinastria-amorosa-do-casal.ghtml",
+         "title": "Matheus Torres e Unna X combinam? Veja a sinastria amorosa do casal ",
+         "category": "News",
+         "description": "Veja o que dizem os astros sobre o casal do Estrela da Casa",
+         "imageUrl": "https://s3.glbimg.com/v1/AUTH_1c3ee56c57864e2b9a34135c5ee67caf/gshow/emojis/emoji-realities.png"
+      },
+      {
+         "id": "id-dex1oi4sr-m1jf7lnm",
+         "url": "https://gshow.globo.com/horoscopo-etc/noticia/sexta-feira-13-e-um-dia-de-azar-entenda-o-significado-da-data.ghtml",
+         "title": "Sexta-feira 13 é um dia de azar? Entenda o significado da data",
+         "category": "News",
+         "description": "Saiba como a Numerologia enxerga esses números",
+         "imageUrl": "https://s2-gshow.glbimg.com/5m8VY7lnK52SQmMYr7eN4wcc73w=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/4/l/YBI0wiTMm6KTIwWR8iKA/numerology-concept-composition.jpg"
+      },
+      {
+         "id": "id-zudyskhvi-m1jf7lnm",
+         "url": "https://gshow.globo.com/tudo-mais/rock-in-rio/noticia/rock-in-rio-2024-quais-as-previsoes-astrologicas-para-os-dias-de-festival.ghtml",
+         "title": "Rock in Rio 2024: quais as previsões astrológicas para os dias de festival",
+         "category": "News",
+         "description": "Primeiro e segundo finais de semana do evento têm previsões distintas, então entenda como estarão os Astros e saiba como isso pode impactar a sua vida",
+         "imageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACgARwMBIgACEQEDEQH/xAAbAAADAQEBAQEAAAAAAAAAAAAABAUDAQYHAv/EADIQAAIBAgUCAgkDBQAAAAAAAAECAwQRAAUSITETQVGBBhQiMmFxkaGxFcHhQlJy0fD/xAAaAQACAwEBAAAAAAAAAAAAAAAAAwECBQYE/8QAJBEAAgIBBAIBBQAAAAAAAAAAAQIAAxEEEhQhMVFBBRMycfD/2gAMAwEAAhEDEQA/APC5damydp1kOklgF0c823xtN18ujpY6Ng8rETMF5D+9jamynNWyYotHI0aS60Ki5Tf3TbDUGX1SLPU1alZWGqOMLdrgc/tbDuMwBbE1OQpwgM7nMsUlPUVGjTPVItwp0kn+Dth/IMuNRlsclRUEeqoCEO3um5+xxDr3amyuFptSNCxcoxB6jG7b78cY09FamtrhNNTyEsJFRo2YdPQ2z7f4/nAKF2+e/Uq9xQ5PgzLO6qqizeSGnYOHRZJGBuLsQbfS2PQw1DVMVMxUhXUK1uxUm/2t9cLPRZhVZnmFa1HCWn1LFpfZQPLsLYeyun/S6BlmhavcLrES3EaM3IZhudvlv88P4gcbohNSUwnkxE07Z6amKEKY1YmWST3V7jy5xzMMty/LaH1p9UxCBUuSAfAnwH3PwxRSrEE0UojXpknRGseiJfE24v8APfEr0hhlSSly81DFJ2kepe39IJ+5sbfHCfsOCABHlvOZMoK2tqayF6464gp6dMii2m1th4X/AAcGFqSqZjLO8ZiWaTpxInMYUbgH4DSPM4MJfSlj2IC3aMT6PltLlCkNA1edwIiACbk2tt32/OJedZjUkrFHor4JJhdliaOSIAAMxbb5bgg74kZTT5jDncbVYbp9M62jfYBrabXtv7LYcrNUEZEYnQRHZlOrUuoXv5Y6QspJBmYdtjr3gRCjyJYs4kqp6nrIXZCjxXG9mve58bcYopLRUoWKSWjp/ZU7kKX37b4pZpkWYZbNqFc0xkD+wqKNLaFsDbvv2uMTPR6GGVHbNNLVEKFkMqAGJQxGvSebaht5njfxYDfjKWOqDIbd+p6bK67K2oapGgWaUL7Bj3CXP/HGUFLUw9StihcRpYSaEK2Q8/b/AHiT+uvR0QongMrpUWj6gB7XN/EXI45t8cMZnLVrlzGnEgp5aOWR5StrygqAB9T89Nxi1VZUksYtbwG248zj11Jn9bTOZJGy9GLRoqEsF8+5/jD+aRZDUhuotY8qxWW0YsW7X8ycIeiGW1MFdT0NFVPEYAxWVgpFhYknw8NsKSJXRZzmQqi86yzRujKedW/7Y9VZUvtX4Gf7qNNoCkse/Um1MVDpSC2iVEtq036ZJ1MLHvcnyAwYp9ZIllEqP0pJSXQngiwHfwGDEDT1nsiLfWWA4HUjw5rXxrOk7RNaOyaYeG8Tv2F74/f6pegkhEkZlfUrsVVQEYXIC32IPc47gxz411nxNU0Vj4gtVViqikWs6ksERVuqDIu/G1+bKPt4YzeqqIKqnrZZX63T0CKOnZ1ZWtswF+b+ODBiRq7D3I41QTaF6m0itIStIOm6sejxqQEf3W5ueecdoPW6FEiqan1k1Eq31HVsDvvySR4/DBgxY6+3ccw4dCgYWZ11fVLmcnq9R6u8czrGYk3YeF7+1t+ccrK+uhIKPGxuGaSSIk3ue1xzttgwYF+pWDAxAaWnJbb2Ywla+sslbFHN7wEtC1nvyB7W/f6HBgwYObb7knS0k9qJ/9k="
+      },
+      {
+         "id": "id-d1e4isi8q-m1jf7lnm",
+         "url": "https://gshow.globo.com/horoscopo-etc/noticia/previsoes-do-tarot-para-setembro-de-2024-amor-carreira-e-saude.ghtml",
+         "title": "Previsões do Tarot para setembro de 2024: amor, carreira e saúde",
+         "category": "News",
+         "description": "A carta A Estrela traz boas energias para o mês; entenda o que isso significa para a sua vida",
+         "imageUrl": "https://s2-gshow.glbimg.com/5v1lX-9QtKtD0g9UWbIZK-gUlpA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2021/I/b/tTAjLVTBqWudA0W5zZYw/viva-luna-studios-y3qrbagm7q8-unsplash.jpg"
+      },
+      {
+         "id": "id-kqdb87wu6-m1jf7lnm",
+         "url": "https://gshow.globo.com/horoscopo-etc/noticia/horoscopo-mensal-as-previsoes-dos-signos-para-setembro-de-2024.ghtml",
+         "title": "Horóscopo mensal: as previsões dos signos para setembro de 2024",
+         "category": "News",
+         "description": "Apesar dos aspectos tensos que envolvem a Lua e Mercúrio, comunicação e relações interpessoais são o destaque positivo deste mês",
+         "imageUrl": "https://s2-gshow.glbimg.com/3ne_Drjx-Xq5i9fhU9iw2d4EkZ8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/x/k/kjMlvWQ4eYC8XlOnUYFQ/conceito-de-colagem-de-numerologia.jpg"
+      },
+      {
+         "id": "id-irbgzo44v-m1jf7lnm",
+         "url": "https://gshow.globo.com/horoscopo-etc/noticia/fim-de-mercurio-retrogrado-descubra-como-sua-vida-pode-fluir-melhor.ghtml",
+         "title": "Fim de Mercúrio Retrógrado: descubra como sua vida pode fluir melhor",
+         "category": "News",
+         "description": "Veja guia prático para saber qual área da sua vida tende a se tornar mais fluida com o término da retrogradação de Mercúrio",
+         "imageUrl": "https://s2-gshow.glbimg.com/Ty9HN2dNeiMEAOTGWU0EaY3x4l8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/9/G/OxuYKNRYaJZB0hp75gCg/cena-com-planetas.jpg"
+      },
+      {
+         "id": "id-ebhb6ltof-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/mentira-ou-verdade-o-ascendente-fica-mais-forte-quando-envelhecemos.ghtml",
          "title": "Mentira ou verdade: o Ascendente fica mais forte quando envelhecemos?",
          "category": "News",
@@ -10,7 +58,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/f2QjsIQwkQjt5VhmI7OIXt3YrcE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/C/w/nXf0KORYA0jx1aSOwhCw/10300508.jpg"
       },
       {
-         "id": "id-i9f76xp2z-m0pea9c0",
+         "id": "id-ipqm3pshn-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/signo-de-virgem-caracteristicas-e-previsoes-para-2024.ghtml",
          "title": "Signo de Virgem: características e previsões para 2024",
          "category": "News",
@@ -18,7 +66,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/OyGlrzAVw3dd_6Wl5AQBxqoFvxM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/a/k/DiTIKjRLi0Po4ZAOOzOA/virgem.png"
       },
       {
-         "id": "id-cx8zmfhnu-m0pea9c0",
+         "id": "id-pxakagszh-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/numerologia-do-amor-o-que-os-numeros-revelam-sobre-o-seu-relacionamento.ghtml",
          "title": "Numerologia do Amor: o que os números revelam sobre o seu relacionamento",
          "category": "News",
@@ -26,7 +74,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/o0osvFCv2-YdkCK4-jDcs4hL7aM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/a/P/BFBPnfRYyKToA0gUkDNA/cute-couple-spending-time-together.jpg"
       },
       {
-         "id": "id-1un3do7qt-m0pea9c0",
+         "id": "id-4xvpu5gj1-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/7-coisas-sobre-mercurio-retrogrado-de-agosto-que-voce-precisa-saber.ghtml",
          "title": "7 coisas sobre Mercúrio retrógrado de agosto que você precisa saber",
          "category": "News",
@@ -34,7 +82,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/zkWZexU6xos7Oz7QKfsx1sGswbY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/2/c/IPm8MsQJqAGtzSFixhmw/abstract-colorful-soap-bubble-black-background.jpg"
       },
       {
-         "id": "id-79kn10rj3-m0pea9c0",
+         "id": "id-3ccomrke4-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/dia-do-solteiro-como-cada-signo-pode-curtir-essa-fase.ghtml",
          "title": "Dia do Solteiro: como cada signo pode curtir essa fase",
          "category": "News",
@@ -42,7 +90,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/MTThjDLnTonB_wY1Hpqu0wQjeaU=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/Q/S/0tf4MVQhAxoNLvsKxr2A/medium-shot-friends-partying-together.jpg"
       },
       {
-         "id": "id-4p66iacpf-m0pea9c0",
+         "id": "id-zupo12h7i-m1jf7lnm",
          "url": "https://gshow.globo.com/realities/estrela-da-casa/2024/noticia/estrela-da-casa-confira-as-principais-previsoes-para-o-novo-reality-da-globo.ghtml",
          "title": "Estrela da Casa: confira as principais previsões para o novo reality da Globo",
          "category": "News",
@@ -50,7 +98,7 @@
          "imageUrl": "https://s3.glbimg.com/v1/AUTH_1c3ee56c57864e2b9a34135c5ee67caf/gshow/emojis/emoji-realities.png"
       },
       {
-         "id": "id-4ii065byq-m0pea9c0",
+         "id": "id-lhhyxng5c-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/dia-dos-pais-oleos-essenciais-para-melhorar-a-relacao-entre-pais-e-filhos.ghtml",
          "title": "Dia dos Pais: óleos essenciais para melhorar a relação entre pais e filhos",
          "category": "News",
@@ -58,7 +106,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/159eOk15nX0Sn2nMi6kI0I7qh_w=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/C/v/UZ02raRiSS0T2M3DbaDg/father-son-playing-park-sunset-time-happy-family-having-fun-outdoor.jpg"
       },
       {
-         "id": "id-caknl8izs-m0pea9c0",
+         "id": "id-8u65qyyb2-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/poderoso-portal-888-traz-energia-e-prosperidade-numerologia-explica.ghtml",
          "title": "Poderoso Portal 8/8/8 traz energia e prosperidade; Numerologia explica",
          "category": "News",
@@ -66,7 +114,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/FPIuDPFLoUJjzp5qTOnxb5XTNQ0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/F/P/rt9FEASQalMSppkvCKjQ/8375272.jpg"
       },
       {
-         "id": "id-oaw180vvc-m0pea9c0",
+         "id": "id-h0hiv32mx-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/signo-de-touro-e-campeao-de-medalhas-para-o-brasil-astrologos-explicam-fenomeno.ghtml",
          "title": "Signo de Touro é campeão de medalhas para o Brasil: astrólogos explicam 'fenômeno'",
          "category": "News",
@@ -74,7 +122,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/XXUzhyLc7jL9HiuXqolrMBXngAQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/m/2/niBBc0SnGuxn43vLzZog/atletas-taurinas.png"
       },
       {
-         "id": "id-ecq48h7pd-m0pea9c0",
+         "id": "id-vjrmb9zdz-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/dia-dos-pais-qual-o-melhor-presente-segundo-a-numerologia.ghtml",
          "title": "Dia dos Pais: qual o melhor presente, segundo a Numerologia",
          "category": "News",
@@ -82,7 +130,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/NKskeDlfZ0dt1im8CmRjZc_y6ck=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/q/6/XYthkkQcSYVA5XelkWXQ/adoravel-filho-fazendo-uma-surpresa-para-o-pai.jpg"
       },
       {
-         "id": "id-lvor1r88m-m0pea9c0",
+         "id": "id-ng6zmq6r3-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/10-formas-de-se-proteger-de-mercurio-retrogrado.ghtml",
          "title": "Mercúrio retrógrado começou! Veja 10 formas de se proteger",
          "category": "News",
@@ -90,7 +138,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/QA0TBw_ZtuwGeB1KLYJKF7xdL1I=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2021/e/g/hsPcd8S96Ietvps8jyeQ/greg-rakozy-ompaz-dn-9i-unsplash.jpg"
       },
       {
-         "id": "id-swztotxfa-m0pea9c0",
+         "id": "id-1o9acadr4-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/vem-ai-o-mercurio-mais-retrogrado-de-todos-entenda-quando-e-por-que.ghtml",
          "title": "Vem aí o Mercúrio mais retrógrado de todos: entenda quando e por quê",
          "category": "News",
@@ -98,7 +146,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/Ty9HN2dNeiMEAOTGWU0EaY3x4l8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/9/G/OxuYKNRYaJZB0hp75gCg/cena-com-planetas.jpg"
       },
       {
-         "id": "id-s0jex993e-m0pea9c0",
+         "id": "id-kte0ncax8-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/previsoes-do-tarot-para-agosto-de-2024-amor-carreira-e-saude.ghtml",
          "title": "Previsões do Tarot para agosto de 2024: amor, carreira e saúde",
          "category": "News",
@@ -106,7 +154,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/bh0epZLcBRtiIamoxjLXhEdMvZE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/r/x/ugJWLDQlOXjb8AAUiicw/pikaso-texttoimage-generate-an-image-that-shows-a-person-planning-the.jpeg"
       },
       {
-         "id": "id-jh7527u74-m0pea9c0",
+         "id": "id-2eljam1ew-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/horoscopo-mensal-as-previsoes-dos-signos-para-agosto-de-2024.ghtml",
          "title": "Horóscopo mensal: as previsões dos signos para agosto de 2024",
          "category": "News",
@@ -114,7 +162,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/3ne_Drjx-Xq5i9fhU9iw2d4EkZ8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/x/k/kjMlvWQ4eYC8XlOnUYFQ/conceito-de-colagem-de-numerologia.jpg"
       },
       {
-         "id": "id-if0oik34a-m0pea9c0",
+         "id": "id-om8qa16vm-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/previsoes-astrologicas-para-o-brasil-nas-olimpiadas-de-paris-o-que-esperar.ghtml",
          "title": "Previsões astrológicas para o Brasil nas Olimpíadas de Paris: o que esperar?",
          "category": "News",
@@ -122,7 +170,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/g8qhmYZr4Usgq4X-Vd4KeFjD3WY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/o/G/zH3xStSpCROHWQ5WLImA/soccer-stadium-full-people.jpg"
       },
       {
-         "id": "id-h6noecuxh-m0pea9c0",
+         "id": "id-j34afcxi2-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/qual-esporte-olimpico-mais-combina-com-seu-signo.ghtml",
          "title": "Qual esporte olímpico mais combina com seu signo?",
          "category": "News",
@@ -130,7 +178,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/JMeTc2SrAU3X1YiAVZG6rMRHOAY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/Z/i/Fk7PcQTDiJ9bp2hY5CvQ/rhythmic-gymnast-professional-arena.jpg"
       },
       {
-         "id": "id-rozkdevt7-m0pea9c0",
+         "id": "id-komxlqe6x-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/signo-de-leao-caracteristicas-e-previsoes-para-2024.ghtml",
          "title": "Signo de Leão: características e previsões para 2024",
          "category": "News",
@@ -138,7 +186,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/2mV5xia_LcVXYPq69l-OES_DchQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/I/T/JKzto5TwO3qBefwaYRQQ/leao.png"
       },
       {
-         "id": "id-pg62sq35p-m0pea9c0",
+         "id": "id-bm63ayult-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/por-que-voce-deve-ler-seu-horoscopo-de-acordo-com-seu-ascendente.ghtml",
          "title": "Por que você deve ler seu horóscopo de acordo com seu Ascendente",
          "category": "News",
@@ -146,7 +194,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/f2QjsIQwkQjt5VhmI7OIXt3YrcE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/C/w/nXf0KORYA0jx1aSOwhCw/10300508.jpg"
       },
       {
-         "id": "id-l1a6bju1z-m0pea9c0",
+         "id": "id-7n66tj1b7-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/qual-e-a-primeira-impressao-que-voce-causa-segundo-a-astrologia.ghtml",
          "title": "Qual é a primeira impressão que você causa, segundo a Astrologia",
          "category": "News",
@@ -154,7 +202,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/ntqUyuF8-kko1tYvFNK56IHZKxs=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/B/e/OMIPEJScOTAo5jsNEBqw/close-up-friends-having-fun.jpg"
       },
       {
-         "id": "id-3zx8mhbdu-m0pea9c0",
+         "id": "id-cfrrrmuay-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/qual-o-tipo-de-viagem-perfeito-para-voce-este-ano.ghtml",
          "title": "Qual o tipo de viagem perfeito para você este ano?",
          "category": "News",
@@ -162,7 +210,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/t77fz8TLsifh-COqzaBJfMvmpPk=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/W/b/xow1OXTPebxuc6edv6yg/travel-concept-with-landmarks.jpg"
       },
       {
-         "id": "id-ex6w7f5tv-m0pea9c0",
+         "id": "id-mvjaqulpe-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/o-louco-o-diabo-os-enamorados-o-que-as-cartas-do-tarot-preveem-para-o-amor.ghtml",
          "title": "O Louco, O Diabo, Os Enamorados: o que as cartas do Tarot preveem para o Amor?",
          "category": "News",
@@ -170,7 +218,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/OhJbA0PP_7MRw03AZqTd1vs1K0U=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/I/B/vgJARsSlWHMdLPaAiLiA/pexels-jasmin-wedding-photography-619951-1415131.jpg"
       },
       {
-         "id": "id-9ve04bcjf-m0pea9c0",
+         "id": "id-q06iakp4y-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/como-esta-o-seu-ano-ate-agora-reflita-sobre-a-sua-pergunta-chave-em-2024.ghtml",
          "title": "Como está o seu ano até agora? Reflita sobre a sua pergunta-chave em 2024",
          "category": "News",
@@ -178,7 +226,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/YN5DIBar6ihk0YLpSy1uGuZNl1Q=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/u/6/Qm1UUDSDKutanrMh74MA/close-up-portrait-attractive-young-woman-isolated.jpg"
       },
       {
-         "id": "id-in10lc8h7-m0pea9c0",
+         "id": "id-ddcw8dcfc-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/vai-casar-veja-dicas-da-numerologia-para-escolher-a-data-do-casamento.ghtml",
          "title": "Vai casar? Veja dicas da Numerologia para escolher a data do casamento",
          "category": "News",
@@ -186,7 +234,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/UA8xEFJHUDxQ1xsgqSe0P-j88o0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/w/W/4XMaG5THaO4ReSxucdaQ/full-shot-married-couple-dancing-together.jpg"
       },
       {
-         "id": "id-v8jazlns5-m0pea9c0",
+         "id": "id-i1f72uaia-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/6-datas-astrologicas-tensas-do-2o-semestre-de-2024-para-ficar-de-olho.ghtml",
          "title": "6 datas astrológicas tensas do 2º semestre de 2024 para ficar de olho",
          "category": "News",
@@ -194,7 +242,7 @@
          "imageUrl": "https://s2-gshow.glbimg.com/WQSNUIRjtXmHbjUSX2V9lQ2MCLE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/y/R/aqh5UoS2AfqaSILWbbzA/planetas-do-sistema-solar.jpg"
       },
       {
-         "id": "id-75r1fyvre-m0pea9c0",
+         "id": "id-tp0n81s83-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/o-que-esperar-de-julho-de-2024-segundo-o-tarot-veja-previsoes.ghtml",
          "title": "O que esperar de julho de 2024, segundo o Tarot; veja previsões",
          "category": "News",
@@ -202,60 +250,12 @@
          "imageUrl": "https://s2-gshow.glbimg.com/thjqyML4i9jlSBsKE0EvFbqThZQ=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/x/M/Qhw1c7S2Oo69zZ5AvTOg/1225.jpg"
       },
       {
-         "id": "id-84mybmr01-m0pea9c0",
+         "id": "id-mu4s4fnmh-m1jf7lnm",
          "url": "https://gshow.globo.com/horoscopo-etc/noticia/horoscopo-mensal-as-previsoes-dos-signos-para-julho-de-2024.ghtml",
          "title": "Horóscopo mensal: as previsões dos signos para julho de 2024",
          "category": "News",
          "description": "Mês terá forte atuação de Marte, Vênus e Mercúrio, com influências no corpo e mente e até em oportunidades financeiras. Entenda!",
          "imageUrl": "https://s2-gshow.glbimg.com/3ne_Drjx-Xq5i9fhU9iw2d4EkZ8=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/x/k/kjMlvWQ4eYC8XlOnUYFQ/conceito-de-colagem-de-numerologia.jpg"
-      },
-      {
-         "id": "id-h68pzo087-m0pea9c0",
-         "url": "https://gshow.globo.com/horoscopo-etc/noticia/chegamos-a-metade-do-ano-planeje-o-ultimo-semestre-com-tarot-astrologia-e-numerologia.ghtml",
-         "title": "Chegamos à metade do ano! Planeje o último semestre com Tarot, Astrologia e Numerologia",
-         "category": "News",
-         "description": "Saiba como organizar sua rotina e dia a dia até o fim de 2024 e o que esperar do resto do ano",
-         "imageUrl": "https://s2-gshow.glbimg.com/bh0epZLcBRtiIamoxjLXhEdMvZE=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/r/x/ugJWLDQlOXjb8AAUiicw/pikaso-texttoimage-generate-an-image-that-shows-a-person-planning-the.jpeg"
-      },
-      {
-         "id": "id-60tet57sd-m0pea9c0",
-         "url": "https://gshow.globo.com/horoscopo-etc/noticia/como-cada-signo-deve-comecar-o-dia.ghtml",
-         "title": "Como cada signo deve começar o dia",
-         "category": "News",
-         "description": "Veja como seu Ascendente influencia na maneira como você acorda e inicia seu dia a dia; veja o que fazer (e o que não fazer)!",
-         "imageUrl": "https://s2-gshow.glbimg.com/gM_njGhJbvo-n7JkWkYNZH8wlaA=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/c/b/qB3kgGS0G0R6iENLcfbg/rear-view-woman-stretching-body-after-awakening-bed.jpg"
-      },
-      {
-         "id": "id-fxzamo7il-m0pea9c0",
-         "url": "https://gshow.globo.com/horoscopo-etc/noticia/big-6-saiba-quais-sao-os-principais-signos-do-seu-mapa-astral.ghtml",
-         "title": "Big 6: saiba quais são os principais signos do seu Mapa Astral",
-         "category": "News",
-         "description": "Sol, Lua, Ascendente, Mercúrio, Vênus e Marte fornecem mais informações sobre a personalidade e os comportamentos de uma pessoa",
-         "imageUrl": "https://s2-gshow.glbimg.com/hfkjZE8-cFwLS4EepOBRBEe8lB0=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/R/L/1FkeLoSoOv4knCSOkwqQ/pikaso-texttoimage-35mm-film-photography-photorealistic-pixel-art-dep.jpeg"
-      },
-      {
-         "id": "id-m860kxlhp-m0pea9c0",
-         "url": "https://gshow.globo.com/horoscopo-etc/noticia/como-o-solsticio-de-inverno-muda-seu-humor-com-base-no-seu-signo.ghtml",
-         "title": "Como o solstício de inverno muda seu humor, com base no seu signo",
-         "category": "News",
-         "description": "Descubra qual seu Ascendente e veja como a temporada pode influenciar sua personalidade",
-         "imageUrl": "https://s2-gshow.glbimg.com/CKIEYHNQTFrVcKEvkKzAYhzuCOY=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/C/L/XwkkryRByhukBT47Pz2g/flat-lay-assortment-optimism-concept-elements.jpg"
-      },
-      {
-         "id": "id-x400l10ca-m0pea9c0",
-         "url": "https://gshow.globo.com/horoscopo-etc/noticia/signo-de-cancer-caracteristicas-e-previsoes-para-2024.ghtml",
-         "title": "Signo de Câncer: características e previsões para 2024",
-         "category": "News",
-         "description": "De forma geral, cancerianas e cancerianos terão um ano de mudanças nos relacionamentos e nas finanças",
-         "imageUrl": "https://s2-gshow.glbimg.com/UOZMbnktCP3OBdkwq20YKq_lZeo=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/N/0/AVSC69REO0N8LkAUpABg/cancer.png"
-      },
-      {
-         "id": "id-9f42xnspu-m0pea9c0",
-         "url": "https://gshow.globo.com/horoscopo-etc/noticia/quer-atrair-o-amor-ou-melhorar-o-relacionamento-aprenda-3-rituais-para-fazer-no-dia-dos-namorados.ghtml",
-         "title": "Quer atrair o amor ou melhorar o relacionamento? Aprenda 3 rituais para fazer no Dia dos Namorados",
-         "category": "News",
-         "description": "Além disso, descubra em qual signo você tem Vênus no seu Mapa Astral e entenda como você lida com o amor",
-         "imageUrl": "https://s2-gshow.glbimg.com/o0osvFCv2-YdkCK4-jDcs4hL7aM=/540x304/top/smart/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/a/P/BFBPnfRYyKToA0gUkDNA/cute-couple-spending-time-together.jpg"
       }
    ]
 }
