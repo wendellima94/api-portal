@@ -91,7 +91,7 @@ async function scrapeAndSave(url, tag) {
       "--disable-accelerated-2d-canvas",
       "--disable-gpu",
       "--single-process",
-      '--js-flags="--max-old-space-size=256"', // Aumentar o limite de memória se possível
+      '--js-flags="--max-old-space-size=512"', // Aumentar o limite de memória se possível
     ],
   });
 
