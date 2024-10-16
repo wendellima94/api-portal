@@ -97,7 +97,6 @@ async function scrapeAndSave(url, tag) {
   const browser = await puppeteer.launch({
     headless: true, // Modo headless geralmente é preferível em produção
     args: ["--no-sandbox", "--disable-setuid-sandbox"], // Evita problemas de permissões
-    executablePath: process.env.CHROME_BIN || null, // Verifica se o CHROME_BIN está configurado
   });
 
   const page = await browser.newPage();
