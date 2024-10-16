@@ -12,10 +12,10 @@ async function scrapeAndSaveData(req, res) {
 
   try {
     await scrapeAndSave(url, tag);
-    res.status(200).json({ message: "Data scraped and saved successfully." });
+    res.status(200).json({ message: 'Scraping completed successfully' });
   } catch (error) {
-    console.error("Error scraping and saving data:", error);
-    res.status(500).json(error, { error: "Error scraping and saving data" });
+    console.error('Error during scraping:', error.message);
+    res.status(500).json({ error: 'Scraping failed', details: error.message });
   }
 }
 
