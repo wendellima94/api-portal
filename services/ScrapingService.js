@@ -100,7 +100,7 @@ async function scrapeAndSave(url, tag) {
   });
 
   const page = await browser.newPage();
-  page.setDefaultNavigationTimeout(60000);
+  page.setDefaultNavigationTimeout(80000);
 
   const posts = await scrapePage(url, page);
 
