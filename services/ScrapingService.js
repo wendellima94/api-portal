@@ -5,18 +5,24 @@ import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const fireImage = "https://s3.glbimg.com/v1/AUTH_1c3ee56c57864e2b9a34135c5ee67caf/gshow/emojis/emoji-tudomais.png";
+var fireImage =
+  "https://s3.glbimg.com/v1/AUTH_1c3ee56c57864e2b9a34135c5ee67caf/gshow/emojis/emoji-tudomais.png";
 
 async function fetchGoogleImages(query, page) {
   console.log(`Fetching Google Images for query: ${query}`);
-  const searchUrl = `https://www.google.com/search?tbm=isch&q=${encodeURIComponent(query)}`;
-  await page.goto(searchUrl, { waitUntil: 'domcontentloaded' });
-  await page.waitForTimeout(2000); // Espera extra para garantir que as imagens carreguem
+  const searchUrl = `https://www.google.com/search?tbm=isch&q=${encodeURIComponent(
+    query
+  )}`;
+  await page.goto(searchUrl);
+  await page.waitForSelector("img");
 
   const imageUrls = await page.evaluate(() => {
     const images = Array.from(document.querySelectorAll("img"));
     const validImages = images
-      .filter((img) => !img.src.includes("gstatic.com") && !img.src.includes("google.com"))
+      .filter(
+        (img) =>
+          !img.src.includes("gstatic.com") && !img.src.includes("google.com")
+      )
       .slice(0, 10);
     return validImages.map((img) => img.src);
   });
@@ -28,14 +34,16 @@ async function fetchGoogleImages(query, page) {
 
 async function scrapePage(url, page) {
   console.log(`Scraping page: ${url}`);
-  await page.goto(url, { waitUntil: 'domcontentloaded' });
-  await page.waitForTimeout(2000); // Espera para garantir que o conteúdo carregue
-
+  await page.goto(url);
   const posts = await page.evaluate(async () => {
     function generateUniqueId() {
-      return "id-" + Math.random().toString(36).substr(2, 9) + "-" + Date.now().toString(36);
+      return (
+        "id-" +
+        Math.random().toString(36).substr(2, 9) +
+        "-" +
+        Date.now().toString(36)
+      );
     }
-    
     await new Promise((resolve) => {
       const distance = 100;
       let scrolledAmount = 0;
@@ -51,14 +59,17 @@ async function scrapePage(url, page) {
 
     const posts = Array.from(document.querySelectorAll(".post-item"));
     const data = posts.map((post) => {
-      const title = post.querySelector(".post-materia-text__title")?.textContent;
+      const title = post.querySelector(
+        ".post-materia-text__title"
+      )?.textContent;
       const imageUrl = post.querySelector("img")?.src;
       return {
         id: generateUniqueId(),
         url: post.querySelector(".post-materia-text")?.getAttribute("href"),
         title: title,
         category: "News",
-        description: post.querySelector(".post-materia-text__description")?.textContent,
+        description: post.querySelector(".post-materia-text__description")
+          ?.textContent,
         imageUrl: imageUrl,
       };
     });
@@ -82,21 +93,22 @@ async function scrapePage(url, page) {
 
 async function scrapeAndSave(url, tag) {
   console.log(`Scraping and saving data for URL: ${url}, Tag: ${tag}`);
+  // const browser = await puppeteer.launch({ headless: true });
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: true, // Modo headless geralmente é preferível em produção
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
-      "--disable-dev-shm-usage",
+      "--disable-dev-shm-usage", // Usar /tmp ao invés de /dev/shm
       "--disable-accelerated-2d-canvas",
       "--disable-gpu",
-      "--single-process",
-      '--js-flags="--max-old-space-size=256"', // Aumentar o limite de memória se possível
+      "--single-process", // Forçar o uso de apenas um processo
+      '--js-flags="--max-old-space-size=128"', // Limitar a memória JavaScript a 128 MB
     ],
   });
 
   const page = await browser.newPage();
-  page.setDefaultNavigationTimeout(100000);
+  page.setDefaultNavigationTimeout(180000);
 
   const posts = await scrapePage(url, page);
 
