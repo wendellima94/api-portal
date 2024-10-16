@@ -15,7 +15,7 @@ async function scrapeAndSaveData(req, res) {
     res.status(200).json({ message: "Data scraped and saved successfully." });
   } catch (error) {
     console.error("Error scraping and saving data:", error);
-    res.status(500).json({ error: "Error scraping and saving data" });
+    res.status(500).json(error, { error: "Error scraping and saving data" });
   }
 }
 
@@ -23,7 +23,7 @@ function getScrapedData(req, res) {
   const dataFilePath = path.join(__dirname, "..", "public", "bbb.json");
   fs.readFile(dataFilePath, "utf8", (err, data) => {
     if (err) {
-      res.status(500).json({ error: "Error reading data file" });
+      res.status(500).json(err, { error: "Error reading data file" });
       return;
     }
     res.json(JSON.parse(data));
