@@ -96,11 +96,19 @@ async function scrapeAndSave(url, tag) {
   // const browser = await puppeteer.launch({ headless: true });
   const browser = await puppeteer.launch({
     headless: true, // Modo headless geralmente é preferível em produção
-    args: ["--no-sandbox", "--disable-setuid-sandbox"], // Evita problemas de permissões
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-dev-shm-usage", // Usar /tmp ao invés de /dev/shm
+      "--disable-accelerated-2d-canvas",
+      "--disable-gpu",
+      "--single-process", // Forçar o uso de apenas um processo
+      '--js-flags="--max-old-space-size=128"', // Limitar a memória JavaScript a 128 MB
+    ],
   });
 
   const page = await browser.newPage();
-  page.setDefaultNavigationTimeout(80000);
+  page.setDefaultNavigationTimeout(100000);
 
   const posts = await scrapePage(url, page);
 
